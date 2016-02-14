@@ -6,9 +6,9 @@ console.log("Program Started");
 
 var content = '';
 for(var i = 0; i < 10000000; i ++)
-
 {
     fs.appendFileSync('reallyLargeFile.txt', 'This is really really largeFile! \r\n');
+    zddxzc;
 }
 //console.log(content);
 
